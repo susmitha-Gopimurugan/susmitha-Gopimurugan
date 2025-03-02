@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @susmitha-Gopimurugan
-- 👀 I’m interested in web devolpment
+- 👀 I’m interested in web development 
 - 🌱 I’m currently learning B.E CSE
 
 <!---
